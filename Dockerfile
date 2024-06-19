@@ -1,1 +1,1 @@
-From fabric-ca:1.5.11
+From hyperledger/fabric-ca:1.5.11
